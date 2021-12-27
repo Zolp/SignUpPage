@@ -1,0 +1,20 @@
+body{
+    background-color: paleturquoise;
+
+}
+
+.SignUpBox{
+    background-color: white;
+    border-style: solid;
+    border-color: black;
+    width: 300px;
+    margin-left: 50px;
+    margin-top: 50px;
+    border-radius: 50px;
+    padding: 20px;
+}
+
+.button{
+    border-style: none none outset none;
+    border-width: 5px;
+}
